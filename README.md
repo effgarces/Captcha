@@ -1,3 +1,6 @@
+Modified to not require PHP 8.2
+=======
+
 Captcha
 =======
 
